@@ -1,0 +1,22 @@
+﻿
+Credenciales: 
+
+Usuario: admin@gore.com
+Contraseña: admin2023
+
+Vigilancia:
+ Usuario: control@gore.com
+ Clave: control2023
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+*
+{
+	font-family: 'Poppins', sans-serif;	
+	color:black;
+	
+}
+body
+{
+	margin: 0;
+    padding: 0;
+	 
+}
+.cajafuera
+{
+    width: 100%;
+    height: 100%;
+    display: grid;
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+.formulariocaja
+{
+	background:transparent;
+    width: 450px;
+    height: 500PX;
+    position: relative;
+    margin: auto;
+    padding: 1em;
+	border-radius: 3em;
+	color:black;
+}
+
+.cajaentradatexto
+{
+    width: 80%;
+    padding: 10px;
+	font-size:1em;
+	color:black;
+	background: white;
+	margin-bottom: 1.5em;	
+	border:0.1em solid white;
+}
+input::placeholder 
+{
+  color: #1E265D;  
+}
+.ref1
+{
+	margin-top:1em;
+	color:orange;
+}
+a
+{
+	text-decoration: none;
+	cursor:pointer;
+	color:orange;
+	
+}
+
+.botonenviar
+{
+	width: 38%;
+    padding: 0.8em;
+    cursor: pointer;
+    display: inline;
+    border: 0;   
+	font-size:1em;
+	color:white;
+	background: #2E2F39;
+	text-align:center;
+	margin:1em 0.5em;
+	font-family: 'Poppins', sans-serif;		
+}
+
+img
+{	
+  border-radius: 50%;
+  padding:1em;
+  width:15em;
+  height:17em;
+  margin-bottom:2em;
+
+}
+
+footer 
+{
+    clear: both;
+    position: relative;
+	margin-top: -10%; 
+	color:white;
+	text-align:center;
+	font-size:1em;
+	font-family: 'Poppins', sans-serif;	
+}
